@@ -49,9 +49,9 @@ Founded in 1999, isolutions accompanies companies into the digital future as the
     - Features: feature/ISSUE_NBR-DESCRIPTION
     - Hotfixes: hotfix/ISSUE_NBR-HOTFIX
     - Releases: release/[v]VERSIONNUMBER (use semantic versioning)
-	- Issues
+  - Issues
     - Use issues for task tracking
-	- Project
+  - Project
     - Use projects, if your project consists of multiple repositories
 
 ## Useful resources
