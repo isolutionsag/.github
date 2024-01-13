@@ -10,24 +10,20 @@ Founded in 1999, isolutions accompanies companies into the digital future as the
 
 ## Status and Roadmap of GitHub PoC
 
-- [ ] Acquire GitHub enterprise licenses
 - [ ] Clean up repositories in GitHub organization `isolutionsag`
-- [ ] Connect GitHub organization `isolutionsag` with isolutions Azure Tenant (AAD)
+- [ ] Connect GitHub organization `isolutionsag` with isolutions Azure Tenant (Microsoft Entra ID)
 - [ ] Internal communication about:
   - [ ] Changes in GitHub organization `isolutionsag`
   - [ ] GitHub guidelines
 - [ ] Activate team synchronization
 - [ ] Connect GitHub organization `isolutionsag` to Azure DevOps
-- [ ] Pilot projects
-  - [ ] GitHub only
-  - [ ] GitHub & Azure DevOps
 
 ## Guidelines
 
 ### Policies
 
 - Repositories are private by default
-- Public repositories must have a LICENSE file (see [No License | Choose a License](https://choosealicense.com/no-permission/))
+- Public repositories must have a `LICENSE` file (see [No License | Choose a License](https://choosealicense.com/no-permission/))
 
 ### Conventions
 
@@ -36,16 +32,16 @@ Founded in 1999, isolutions accompanies companies into the digital future as the
   - No underlines
 - Repository conventions
   - Private by default - only public, if there is a real need
-  - Initialize with README and .gitignore at least
-  - Protect main branch, so that it's not deletable
+  - Initialize with `README` and `.gitignore` at least
+  - Protect `main` branch, so that it's not deletable
 - GIT conventions
   - General: TBD
   - Branch naming conventions
-    - main (required)
-    - develop
-    - Features: feature/ISSUE_NBR-DESCRIPTION
-    - Hotfixes: hotfix/ISSUE_NBR-HOTFIX
-    - Releases: release/[v]VERSIONNUMBER (use semantic versioning)
+    - `main` (required)
+    - `develop`
+    - Features: `feature/ISSUE_NBR-DESCRIPTION`
+    - Hotfixes: `hotfix/ISSUE_NBR-HOTFIX`
+    - Releases: `release/[v]VERSIONNUMBER` (use semantic versioning)
   - Issues
     - Use issues for task tracking
   - Project
