@@ -10,9 +10,6 @@ Founded in 1999, isolutions accompanies companies into the digital future as the
 
 ## Status and Roadmap of GitHub PoC
 
-- [x] Define guidelines how GitHub should be used in isolutions
-  - [x] Document guidelines in GitHub organization profile
-- [x] Document status and roadmap in GitHub organization profile
 - [ ] Acquire GitHub enterprise licenses
 - [ ] Clean up repositories in GitHub organization `isolutionsag`
 - [ ] Connect GitHub organization `isolutionsag` with isolutions Azure Tenant (AAD)
