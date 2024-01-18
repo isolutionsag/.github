@@ -8,16 +8,6 @@ Founded in 1999, isolutions accompanies companies into the digital future as the
 
 #weshapethefuture
 
-## Status and Roadmap of GitHub PoC
-
-- [ ] Clean up repositories in GitHub organization `isolutionsag`
-- [ ] Connect GitHub organization `isolutionsag` with isolutions Azure Tenant (Microsoft Entra ID)
-- [ ] Internal communication about:
-  - [ ] Changes in GitHub organization `isolutionsag`
-  - [ ] GitHub guidelines
-- [ ] Activate team synchronization
-- [ ] Connect GitHub organization `isolutionsag` to Azure DevOps
-
 ## Guidelines
 
 ### Policies
