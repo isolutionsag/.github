@@ -28,10 +28,10 @@ Founded in 1999, isolutions accompanies companies into the digital future as the
   - General: TBD
   - Branch naming conventions
     - `main` (required)
-    - `develop`
+    - `dev` / `develop`
     - Features: `feature/ISSUE_NBR-DESCRIPTION`
     - Hotfixes: `hotfix/ISSUE_NBR-HOTFIX`
-    - Releases: `release/[v]VERSIONNUMBER` (use semantic versioning)
+    - Releases: `release/[v]VERSIONNUMBER` (use [semantic versioning](https://semver.org/)
   - Issues
     - Use issues for task tracking
   - Project
